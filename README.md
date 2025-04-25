@@ -4,17 +4,17 @@
 
 The project applies filtering, segmentation, thresholding, and region-based methods to extract insights from real-world imaging data.
 
-## 🛠 Technologies & Tools
+## Technologies & Tools
 - Python (Jupyter Notebook)
 - scikit-image, OpenCV, matplotlib
 - MedNIST Dataset (subset)
 
-## ✨ Goals
+## Goals
 - Practice classical image processing methods  
 - Build strong foundations before transitioning to 3D/multidimensional imaging  
 - Understand practical applications in healthcare
 
-## 🔄 Next Steps
+## Next Steps
 - Add feature-based classification and evaluation  
 - Work with 3D and DICOM files in future versions
 
