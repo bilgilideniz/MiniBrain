@@ -1,4 +1,4 @@
-# 🧠 MiniBrain
+# MiniBrain
 
 **MiniBrain** is a personal project that explores fundamental techniques in **medical image processing** using 2D medical images (X-ray, MRI).  
 
